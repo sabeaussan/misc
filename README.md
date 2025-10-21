@@ -1,5 +1,11 @@
 # Setup and install scripts for cloud instances 
 
+Connecting to the remote machine:
+```bash
+ssh user@IPv4
+```
+with ```user``` and ```IPv4``` set accordingly.
+
 First step is docker+CUDA installation:
 ```bash
  chmod +x run_full_install.sh
