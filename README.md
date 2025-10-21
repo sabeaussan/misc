@@ -14,7 +14,7 @@ First step is docker+CUDA installation:
 If everything went right, the computer should reboot. After that, run:
 ```bash
  chmod +x fix_docker_gpu.sh
-./fix_docker_gpu.sh
+sudo ./fix_docker_gpu.sh
 ```
 Congrats, you are now ready to train some big, fat and juicy neural networks.
 
