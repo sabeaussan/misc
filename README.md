@@ -1,5 +1,7 @@
 # Setup and install scripts for cloud instances 
 
+## TODO add docker commands and workflow
+
 Connecting to the remote machine:
 ```bash
 ssh user@IPv4
