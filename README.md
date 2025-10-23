@@ -10,8 +10,8 @@ with ```user``` and ```IPv4``` set accordingly.
 
 First step is docker+CUDA installation:
 ```bash
- chmod +x run_full_install.sh
-./un_full_install.sh
+chmod +x run_full_install.sh
+./run_full_install.sh
 ```
 If everything went right, the computer should reboot. After that, run:
 ```bash
